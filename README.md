@@ -15,4 +15,4 @@ This repository is intended for personal use and exploration, providing a place 
 3. Explore the different code files and try running them in your local environment.
 
 ## **License**
-This project is open-source and available under the [MIT](https://opensource.org/licenses/MIT) License.
+This project is open-source and available under the [MIT License](LICENSE).
